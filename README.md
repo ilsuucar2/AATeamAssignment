@@ -1,6 +1,8 @@
 # AATeamAssignment
  This is our repository for the Team Assignment in Analytics and Applications in WS23. This file gives more information about the project sources and objectives.
 
+## AATeamAssignment.ipynb contains the complete submitted code.
+
 ## Description of the Data:
 Our data consists of the main blocks:
 
